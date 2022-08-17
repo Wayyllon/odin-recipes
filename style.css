@@ -1,4 +1,14 @@
-#website-name {
+h1 {
   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
   color: rgb(100, 100, 255);
+  font-size: 32px;
+  font-weight: bold;
+  text-align:center;
+}
+body {
+  background-color: rgb(30, 30, 40);
+}
+
+.Section-header {
+
 }
