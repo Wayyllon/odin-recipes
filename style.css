@@ -56,6 +56,11 @@ li {
 .site-header {
   display: flex;
 }
+
 .site-header-tab {
   margin-left: 20px;
+}
+
+#github-link {
+  color: rgb(200, 100, 255);
 }
