@@ -1,5 +1,4 @@
-h1,h2,h3,h4,h5,h6,body,p,li,
-div {
+* {
   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
@@ -7,7 +6,7 @@ h1 {
   color: rgb(100, 100, 255);
   font-size: 32px;
   font-weight: bold;
-  text-align:center;
+  text-align:left;
 }
 body {
   background-color: rgb(30, 30, 40);
@@ -52,4 +51,11 @@ li {
   font-size: 32px;
   font-weight: bold;
   text-align: left;
+}
+
+.site-header {
+  display: flex;
+}
+.site-header-tab {
+  margin-left: 20px;
 }
